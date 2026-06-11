@@ -8,7 +8,7 @@ La premisa es simple: debes ascender hasta alcanzar la meta de cada nivel evitan
 
 Este proyecto nació como mi **Proyecto de Fin de Ciclo**, convirtiéndose en mi primera experiencia dentro del desarrollo de videojuegos.
 
-Tras aproximadamente tres meses de desarrollo, diseñé, dibujé y programé esta demo jugable compuesta por tres niveles. Mi intención es seguir ampliando el proyecto en el futuro, aunque dependerá de la acogida que tenga esta primera versión.
+Tras aproximadamente tres meses de desarrollo, diseñé, dibujé y programé esta demo jugable compuesta por tres niveles.
 
 ---
 
